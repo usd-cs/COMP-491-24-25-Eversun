@@ -1,0 +1,10 @@
+^C:\USERS\SWEET\DOCUMENTS\SCHOOL\USD\SENIOR DESIGN\COMP-491-24-25-EVERSUN\HELLOWORLD_APP\BUILD\WINDOWS\X64\CMAKEFILES\F7DD32FD641286B16FDB5DFB7D274808\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

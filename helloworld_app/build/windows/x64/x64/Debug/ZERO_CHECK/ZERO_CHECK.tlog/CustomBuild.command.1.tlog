@@ -1,0 +1,10 @@
+^C:\USERS\SWEET\DOCUMENTS\SCHOOL\USD\SENIOR DESIGN\COMP-491-24-25-EVERSUN\HELLOWORLD_APP\BUILD\WINDOWS\X64\CMAKEFILES\F7DD32FD641286B16FDB5DFB7D274808\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/windows" "-BC:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64" --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file "C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/helloworld_app.sln"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

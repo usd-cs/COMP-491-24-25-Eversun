@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\build\windows\x64\CMakeFiles\f7dd32fd641286b16fdb5dfb7d274808\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{662E8FFD-E892-3535-85B4-C87B512CABC1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
