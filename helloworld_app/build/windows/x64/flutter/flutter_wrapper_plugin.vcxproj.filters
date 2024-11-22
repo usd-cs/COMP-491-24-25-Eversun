@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\windows\flutter\ephemeral\cpp_client_wrapper\plugin_registrar.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{662E8FFD-E892-3535-85B4-C87B512CABC1}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4BF4B665-8EDC-3C8A-87A4-C3A0BD5A73AE}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

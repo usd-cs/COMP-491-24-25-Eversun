@@ -1,0 +1,10 @@
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/icudtl.dat
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/flutter_windows.dll
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.bin
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

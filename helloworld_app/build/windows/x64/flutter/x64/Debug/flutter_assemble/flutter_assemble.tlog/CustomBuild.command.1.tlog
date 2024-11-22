@@ -1,0 +1,28 @@
+^C:\USERS\SWEET\DOCUMENTS\SCHOOL\USD\SENIOR DESIGN\COMP-491-24-25-EVERSUN\HELLOWORLD_APP\BUILD\WINDOWS\X64\CMAKEFILES\FF50723DF7C8D684388C1A01F92E5624\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\Users\sweet\flutter "PROJECT_DIR=C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app" FLUTTER_ROOT=C:\Users\sweet\flutter "FLUTTER_EPHEMERAL_DIR=C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\windows\flutter\ephemeral" "PROJECT_DIR=C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app" "FLUTTER_TARGET=C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\lib\main.dart" DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false "PACKAGE_CONFIG=C:\Users\sweet\Documents\School\USD\Senior Design\COMP-491-24-25-Eversun\helloworld_app\.dart_tool\package_config.json" C:/Users/sweet/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SWEET\DOCUMENTS\SCHOOL\USD\SENIOR DESIGN\COMP-491-24-25-EVERSUN\HELLOWORLD_APP\BUILD\WINDOWS\X64\CMAKEFILES\8B59DC60528FE9105C9F2D33C4691EB6\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^C:\USERS\SWEET\DOCUMENTS\SCHOOL\USD\SENIOR DESIGN\COMP-491-24-25-EVERSUN\HELLOWORLD_APP\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" "-SC:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/windows" "-BC:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64" --check-stamp-file "C:/Users/sweet/Documents/School/USD/Senior Design/COMP-491-24-25-Eversun/helloworld_app/build/windows/x64/flutter/CMakeFiles/generate.stamp"
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
