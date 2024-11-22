@@ -19,15 +19,15 @@ jobs:
 
       - name: Install dependencies
         run: 
-          cd helloworld_app
+          cd helloworld_app;
           flutter pub get
 
       - name: Run Flutter lint
         run:
-          cd helloworld_app
+          cd helloworld_app;
           flutter analyze
 
       - name: Run Flutter tests
         run:
-          cd helloworld_app
+          cd helloworld_app;
           flutter test
